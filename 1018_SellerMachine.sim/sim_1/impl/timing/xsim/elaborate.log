@@ -1,0 +1,16 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 64cdf356c1e54207beece633043686d2 --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot seller_machine_sim_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.seller_machine_sim xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.async_moore_fsm
+Compiling module xil_defaultlib.sell_refund_fifo
+Compiling module xil_defaultlib.money_bin_to_bcd8421
+Compiling module xil_defaultlib.seller_machine_core
+Compiling module xil_defaultlib.seller_machine_sim
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot seller_machine_sim_time_impl

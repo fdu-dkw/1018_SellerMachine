@@ -1,0 +1,7 @@
+Running: xsim.dir/seller_machine_sim_time_impl/xsimk.exe -simmode gui -wdb seller_machine_sim_time_impl.wdb -simrunnum 0 -socket 12723
+Design successfully loaded
+Design Loading Memory Usage: 6528 KB (Peak: 6528 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7224 KB (Peak: 7224 KB)
+Simulation CPU Usage: 15 ms

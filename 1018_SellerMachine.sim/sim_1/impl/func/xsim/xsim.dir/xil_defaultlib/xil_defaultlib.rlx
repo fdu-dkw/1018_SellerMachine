@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.sim/sim_1/impl/func/xsim/seller_machine_sim_func_impl.v,1697897188,verilog,,D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/async_moore_fsm.v,,disp_on_8seg;glbl;seller_machine_top,,,,,,,,
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sim_1/new/seller_machine_sim.v,1697887774,verilog,,,,seller_machine_sim,,,,,,,,
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/async_moore_fsm.v,1697887014,verilog,,D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/money_bin_to_bcd8421.v,,async_moore_fsm,,,,,,,,
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/money_bin_to_bcd8421.v,1697815049,verilog,,D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/sell_refund_fifo.v,,money_bin_to_bcd8421,,,,,,,,
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/sell_refund_fifo.v,1697886809,verilog,,D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/seller_machine_core.v,,sell_refund_fifo,,,,,,,,
+D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sources_1/new/seller_machine_core.v,1697886128,verilog,,D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.srcs/sim_1/new/seller_machine_sim.v,,seller_machine_core,,,,,,,,

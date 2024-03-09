@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Oct 21 22:04:38 2023
+# Process ID: 33440
+# Current directory: D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.runs/impl_1
+# Command line: vivado.exe -log seller_machine_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source seller_machine_top.tcl -notrace
+# Log file: D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.runs/impl_1/seller_machine_top.vdi
+# Journal file: D:/Coding/Vivado_workspace/1018_SellerMachine/1018_SellerMachine.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source seller_machine_top.tcl -notrace
